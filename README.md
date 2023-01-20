@@ -1,5 +1,16 @@
 # Mining-and-Trading-Game-1008
 
+Solution:
+
+Adequately analyses the complexity of various operations / algorithms.
+
+Adds small parts of implementations of the readily available Hash Table, BST / AVL, Heap data structures.
+
+Uses the Hash Table, BST / AVL, Heap data structures to solve complex problems.
+
+Implements recursive sorting algorithms and implements correct, high quality and well-documented code
+
+
 # Quick Background 
 
 After some hard fought pokemon battles, you find yourself transported to a world made of
