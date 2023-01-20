@@ -1,6 +1,6 @@
 # Mining-and-Trading-Game-1008
 
-#Quick Background 
+# Quick Background 
 
 After some hard fought pokemon battles, you find yourself transported to a world made of
 differently-textured cubes, and your arms feel so strong you could punch a tree. It seems
