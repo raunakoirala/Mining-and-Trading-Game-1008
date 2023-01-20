@@ -50,31 +50,3 @@ points
 the player sells all of their materials for emeralds
 5. The quantities of materials in each cave is updated, and the cycle repeats.
 
-
-Here, the player can purchase the Cooked Chicken Cuts for 19 emeralds, and receive 424
-hunger bars.
-Current Emeralds: 50 - 19 = 31
-From here, they can first visit Castle Karstaag Ruins, and mine 4 Netherite Ingots. This takes
-4 * 20.95 hunger bars. These 4 Netherite Ingots sell for 9.78 emeralds with Ruby Goodman.
-Current Emeralds: 31 + 4 * 9.78 = 70.12
-From here, the player can then visit Red Eagle Redoubt, mining all 3 Fishing Rods. This
-takes 3 * 26.93 hunger bars. These 3 Fishing Rods sell for 7.44 emeralds with Waldo
-Morgan.
-Current Emeralds: 70.12 + 3 * 7.44 = 92.44
-From here, the player can then visit Glacial Cave, mining all 3 Gold Nuggets. This takes 3 *
-27.24 hunger bars. These 3 Gold Nuggets sell for 7.7 emeralds with Orson Hoover.
-Current Emeralds: 92.44 + 3 * 7.7 = 115.54
-From here, the player can then visit Boulderfall Cave, mining all 10 Prismarine Crystals. This
-takes 10 * 11.48 hunger bars. These 10 Prismarine Crystals sell for 7.63 emeralds with Lea
-Carpenter.
-Current Emeralds: 115.54 + 10 * 7.63 = 191.84
-From here, the player can then visit Orotheim, mining ~2.3353 Fishing Rods. This takes
-~2.3353 * 26.93 hunger bars. These 2.3353 Fishing Rods sell for 7.44 emeralds with Waldo
-Morgan.
-Current Emeralds: 191.84 + 2.3353 * 7.44 = 209.2147
-If the game continued, the quantities within each cave would be updated based on the
-player's choices. After this, some random amount of each material would be added to caves
-(see functions mentioned later in the spec)
-Note that there are other possible solutions, this one has just been highlighted. Any solution
-which allows the player to end with ~209.2147 emeralds is optimal. Hunger bars used in
-previous days cannot be saved for subsequent ones.
